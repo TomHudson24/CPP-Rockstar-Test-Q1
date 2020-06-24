@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Tom\source\repos\RockstarQ1\RockstarQ1\main.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tom\source\repos\RockstarQ1\RockstarQ1\main.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  RockstarQ1.vcxproj -> C:\Users\Tom\source\repos\RockstarQ1\Debug\RockstarQ1.exe
